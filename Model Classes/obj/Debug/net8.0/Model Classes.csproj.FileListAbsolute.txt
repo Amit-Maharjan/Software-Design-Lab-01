@@ -1,0 +1,11 @@
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\bin\Debug\net8.0\Model Classes.deps.json
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\bin\Debug\net8.0\Model Classes.dll
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\bin\Debug\net8.0\Model Classes.pdb
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.AssemblyInfoInputs.cache
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.AssemblyInfo.cs
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.csproj.CoreCompileInputs.cache
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.dll
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\refint\Model Classes.dll
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\Model Classes.pdb
+C:\Users\Student99\Desktop\ETSU\2nd Semester\Software Design\Lab\Lab01\Model Classes\obj\Debug\net8.0\ref\Model Classes.dll
